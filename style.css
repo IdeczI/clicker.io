@@ -1,0 +1,10 @@
+.doubleclick {
+    border: 2px solid yellow;
+    background-color: gold;
+    color: black;
+    cursor: pointer;
+    padding: 5px;
+  }
+  .doubleclick:active {
+    transform: scale(0.9);
+  }
